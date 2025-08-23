@@ -73,6 +73,7 @@
 
 1. Модуль "Тест-дизайн и документация": [Ссылка на репозиторий](https://github.com/Natalia2828/design_test_techniques)
 2. Модуль "Тестирование веб-приложений": [Ссылка на репозиторий](https://github.com/Natalia2828/testing-web-applications)
+3. "Создание простой веб-страницы": [Ссылка на репозиторий](https://github.com/Natalia2828/html-css-portfolio)
 
 
 

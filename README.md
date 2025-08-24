@@ -6,7 +6,8 @@
 
 Я QA Engineer с базовыми знаниями ручного тестирования. Понимаю основы тест-дизайна, жизненного цикла багов, работала с тестовой документацией (тест-кейсами, баг-репортами). Умею работать с Postman, DevTools, готова быстро обучаться и развиваться в области тестирования.
 
-- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Nadinbra22) [![Mail Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat)](mailto:nadinbra@mail.ru)
+- 📫 Как связаться со мной:
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Nadinbra22) [![Mail Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat)](mailto:nadinbra@mail.ru)
 
 ---
 

@@ -9,8 +9,7 @@
 - 📫 Как связаться со мной:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Nadinbra22) [![Mail Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat)](mailto:nadinbra@mail.ru)
 
-- MY CV:
-Резюме(https://drive.google.com/file/d/1WTF5UcZi52EocYR_EU4tNamBn0Op_IUS/view)
+- [My CV](https://drive.google.com/file/d/1WTF5UcZi52EocYR_EU4tNamBn0Op_IUS/view)
 
 ---
 
